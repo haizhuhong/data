@@ -1,2 +1,2 @@
 # data
-personal use
+This repository is for data storage purpose.
